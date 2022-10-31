@@ -1,1 +1,1 @@
-# chefcode-codes
+# codechef-codes
